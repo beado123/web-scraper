@@ -1,0 +1,67 @@
+INFO:root:scraped https://en.wikipedia.org/wiki/Morgan_Freeman
+INFO:root:scraped https://en.wikipedia.org/wiki/Brubaker
+INFO:root:scraped https://en.wikipedia.org/wiki/Marie_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/That_Was_Then..._This_Is_Now
+INFO:root:scraped https://en.wikipedia.org/wiki/Street_Smart_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Glory_(1989_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Driving_Miss_Daisy
+INFO:root:scraped https://en.wikipedia.org/wiki/Lean_on_Me_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Johnny_Handsome
+INFO:root:scraped https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves
+INFO:root:scraped https://en.wikipedia.org/wiki/Unforgiven_(1992_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/The_Shawshank_Redemption
+INFO:root:scraped https://en.wikipedia.org/wiki/Outbreak_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Seven_(1995_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Chain_Reaction_(1996_film)
+DEBUG:root:cannot find Box office in https://en.wikipedia.org/wiki/Moll_Flanders_(1996_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Moll_Flanders_(1996_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Amistad_(1997_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Kiss_the_Girls_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Deep_Impact_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Nurse_Betty
+INFO:root:scraped https://en.wikipedia.org/wiki/Along_Came_a_Spider_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/The_Sum_of_All_Fears_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/High_Crimes
+INFO:root:scraped https://en.wikipedia.org/wiki/Bruce_Almighty
+INFO:root:scraped https://en.wikipedia.org/wiki/Million_Dollar_Baby
+INFO:root:scraped https://en.wikipedia.org/wiki/Unleashed_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/An_Unfinished_Life
+INFO:root:scraped https://en.wikipedia.org/wiki/Batman_Begins
+INFO:root:scraped https://en.wikipedia.org/wiki/Lucky_Number_Slevin
+INFO:root:scraped https://en.wikipedia.org/wiki/10_Items_or_Less_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Evan_Almighty
+INFO:root:scraped https://en.wikipedia.org/wiki/Gone,_Baby,_Gone
+INFO:root:scraped https://en.wikipedia.org/wiki/The_Bucket_List
+INFO:root:scraped https://en.wikipedia.org/wiki/Feast_of_Love
+INFO:root:scraped https://en.wikipedia.org/wiki/Wanted_(2008_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/The_Dark_Knight_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Invictus_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Red_(2010_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Dolphin_Tale
+INFO:root:scraped https://en.wikipedia.org/wiki/The_Dark_Knight_Rises
+INFO:root:scraped https://en.wikipedia.org/wiki/The_Magic_of_Belle_Isle
+INFO:root:scraped https://en.wikipedia.org/wiki/Olympus_Has_Fallen
+INFO:root:scraped https://en.wikipedia.org/wiki/Oblivion_(2013_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Now_You_See_Me_(film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Last_Vegas
+INFO:root:scraped https://en.wikipedia.org/wiki/The_Lego_Movie
+INFO:root:scraped https://en.wikipedia.org/wiki/Transcendence_(2014_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Lucy_(2014_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Dolphin_Tale_2
+INFO:root:scraped https://en.wikipedia.org/wiki/Momentum_(2015_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Ted_2
+INFO:root:scraped https://en.wikipedia.org/wiki/London_Has_Fallen
+INFO:root:scraped https://en.wikipedia.org/wiki/Now_You_See_Me_2
+INFO:root:scraped https://en.wikipedia.org/wiki/Going_in_Style_(2017_film)
+INFO:root:scraped https://en.wikipedia.org/wiki/Just_Getting_Started_(film)
+DEBUG:root:cannot find Box office in https://en.wikipedia.org/wiki/The_Nutcracker_and_the_Four_Realms
+INFO:root:scraped https://en.wikipedia.org/wiki/The_Nutcracker_and_the_Four_Realms
+WARNING:root:page https://en.wikipedia.org/wiki/Robert_Redfordwas not able to be parsed because no films under Filmography.
+INFO:root:scraped https://en.wikipedia.org/wiki/Yaphet_Kotto
+INFO:root:scraped https://en.wikipedia.org/wiki/Jane_Alexander
+WARNING:root:page https://en.wikipedia.org/wiki/Murray_Hamiltonwas not able to be parsed because Cast tag was not found.
+WARNING:root:page https://en.wikipedia.org/wiki/David_Keithwas not able to be parsed because no films under Filmography.
+INFO:root:scraped https://en.wikipedia.org/wiki/Matt_Clark_(actor)
+WARNING:root:page https://en.wikipedia.org/wiki/Tim_McIntirewas not able to be parsed because Cast tag was not found.
+WARNING:root:page https://en.wikipedia.org/wiki/Richard_Ward_(American_actor)was not able to be parsed because Cast tag was not found.
+INFO:root:scraped https://en.wikipedia.org/wiki/M._Emmet_Walsh
