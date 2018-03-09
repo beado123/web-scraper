@@ -2,6 +2,8 @@
 Created on Feb 26, 2018
 
 @author: yihan
+
+This class handles graph queries
 '''
 import json
 from movie import Movie
