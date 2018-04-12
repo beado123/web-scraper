@@ -5,7 +5,7 @@ Graph queries handled at run time.
 ## analysis.py
 Short summary on data scraped and analysis on hub actors and correlation between age and grossing value of an actor. 
 ## app.py
-Web API with following endpoints:
+Web API using Flask with following endpoints:
 
 | Endpoints                 | Actions | Intended Outcome                                     |
 |---------------------------|---------|------------------------------------------------------|
